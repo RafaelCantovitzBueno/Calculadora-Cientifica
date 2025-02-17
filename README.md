@@ -19,8 +19,8 @@ Certifique-se de ter instalado:
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/seuusuario/calculadora-cientifica.git
-   cd calculadora-cientifica
+   git clone https://github.com/RafaelCantovitzBueno/Calculadora-Cientifica.git
+   cd Calculadora-Cientifica
    ```
 
 2. Instale as dependências do projeto:
